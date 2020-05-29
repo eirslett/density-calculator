@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/density-calculator/precache-manifest.32804daa69dd421e3cf8873ceb4c5b8a.js"
+  "/density-calculator/precache-manifest.799d6f948200ce3da6d3d0cb2cd3daad.js"
 );
 
 self.addEventListener('message', (event) => {
