@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/density-calculator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/density-calculator/static/js/main.676a9ac3.chunk.js",
+    "main.js.map": "/density-calculator/static/js/main.676a9ac3.chunk.js.map",
+    "runtime-main.js": "/density-calculator/static/js/runtime-main.802afc15.js",
+    "runtime-main.js.map": "/density-calculator/static/js/runtime-main.802afc15.js.map",
+    "static/css/2.ca0fe057.chunk.css": "/density-calculator/static/css/2.ca0fe057.chunk.css",
+    "static/js/2.77593bf5.chunk.js": "/density-calculator/static/js/2.77593bf5.chunk.js",
+    "static/js/2.77593bf5.chunk.js.map": "/density-calculator/static/js/2.77593bf5.chunk.js.map",
+    "index.html": "/density-calculator/index.html",
+    "precache-manifest.32804daa69dd421e3cf8873ceb4c5b8a.js": "/density-calculator/precache-manifest.32804daa69dd421e3cf8873ceb4c5b8a.js",
+    "service-worker.js": "/density-calculator/service-worker.js",
+    "static/css/2.ca0fe057.chunk.css.map": "/density-calculator/static/css/2.ca0fe057.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/density-calculator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.77593bf5.chunk.js.LICENSE.txt": "/density-calculator/static/js/2.77593bf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.802afc15.js",
+    "static/css/2.ca0fe057.chunk.css",
+    "static/js/2.77593bf5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.676a9ac3.chunk.js"
+  ]
+}
