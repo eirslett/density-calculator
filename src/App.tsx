@@ -74,12 +74,12 @@ function App() {
 
                 <div className="pure-control-group">
                     <label htmlFor="measureBefore">Measurement before</label>
-                    <input type="number" name="measureBefore" value={state.measureBefore} onChange={ev => setState({ ...state, measureBefore: ev.target.value })} />
+                    <input type="number" min="0" step="0.01" name="measureBefore" value={state.measureBefore} onChange={ev => setState({ ...state, measureBefore: ev.target.value })} />
                 </div>
 
                 <div className="pure-control-group">
                     <label htmlFor="measureSubmerged">Measurement submerged</label>
-                    <input type="number" name="measureSubmerged" value={state.measureSubmerged} onChange={ev => setState({ ...state, measureSubmerged: ev.target.value })} />
+                    <input type="number" min="0" step="0.01" name="measureSubmerged" value={state.measureSubmerged} onChange={ev => setState({ ...state, measureSubmerged: ev.target.value })} />
                 </div>
                 </fieldset>
             </form>
